@@ -19,8 +19,9 @@
  
  Reuben "The Sleepy"
  
+ Lera "The Dash"
  
- And this is the Old Joe picture for all you Old Joe fans! (You have to go into raw to see this properly. It's so big!)
+ And this is the Old Joe picture for all you Old Joe fans! (You have to go into raw to see the Bonk code properly. It's so big!)
  
  ![Old Joe should go here](https://user-images.githubusercontent.com/59121865/100695551-54224400-3389-11eb-9ba0-fb4bd2e17c7d.jpeg)
  

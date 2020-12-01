@@ -1,5 +1,7 @@
 # Bonk
  Esoteric language based on Brainf*ck
+ 
+ ![Bonk table goes here](https://user-images.githubusercontent.com/59121865/100695446-1de4c480-3389-11eb-9e2f-633a6092dc9e.png)
 
  This is the Hello World! script, it's purely amazing. We call this "The Bonkble":
  
